@@ -29,25 +29,39 @@
 
 <br>
 
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
+
+<div align="center">
+  <a href="https://github.com/showlittlemercy">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=showlittlemercy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="General Stats"/>
+  </a>
+  <a href="https://github.com/showlittlemercy">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlittlemercy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showlittlemercy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=showlittlemercy&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github.com/showlittlemercy/showlittlemercy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/0-profile-details.svg" height="150" alt="Profile Details" />
-  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="150" alt="Repos Per Language" />
-  <br>
-  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/3-stats.svg" height="150" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="150" alt="Most Commits" />
-  <br>
-  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/4-productive-time.svg" height="150" alt="Productive Time" />
-</div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <br>

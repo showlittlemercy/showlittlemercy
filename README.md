@@ -60,8 +60,38 @@
 
 <br>
 
+<h2 align="center">⚡ Developer Wisdom (Humor)</h2>
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <b>🐛 Bug:</b> An undocumented feature.
+      </td>
+      <td align="left">
+        <b>☕ Coffee:</b> Data in, Code out.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>🛑 Deadlines:</b> The things we swoosh by.
+      </td>
+      <td align="left">
+        <b>🧠 Algorithm:</b> Word used when programmers don't want to explain what they did.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <i>"It works on my machine!" ¯\_(ツ)_/¯</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

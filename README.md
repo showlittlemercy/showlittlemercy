@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=showlittlemercy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
 </div>
 
 <br>
@@ -60,7 +60,7 @@
 
 <br>
 
-<h2 align="center">⚡ Developer Wisdom (Humor)</h2>
+<h2 align="center">⚡ The Developer's Dictionary</h2>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
@@ -71,24 +71,32 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left">
-        <b>🐛 Bug:</b> An undocumented feature.
+      <td align="left" width="50%">
+        <b>🐛 Bug:</b><br> An undocumented feature that users hate.
       </td>
-      <td align="left">
-        <b>☕ Coffee:</b> Data in, Code out.
+      <td align="left" width="50%">
+        <b>☕ Coffee:</b><br> A magical liquid that turns stress into code.
       </td>
     </tr>
     <tr>
       <td align="left">
-        <b>🛑 Deadlines:</b> The things we swoosh by.
+        <b>🛑 Deadlines:</b><br> A rough suggestion of when the project might be halfway done.
       </td>
       <td align="left">
-        <b>🧠 Algorithm:</b> Word used when programmers don't want to explain what they did.
+        <b>🧠 Algorithm:</b><br> What developers say when they don't want to explain the code.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>🥞 Full Stack:</b><br> The ability to break the Frontend and Backend simultaneously.
+      </td>
+      <td align="left">
+        <b>🎲 Git:</b><br> A game of Russian Roulette where the bullet is a 'Merge Conflict'.
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <i>"It works on my machine!" ¯\_(ツ)_/¯</i>
+        <i>"My code doesn't work, I have no idea why." <br> "My code works, I have no idea why."</i>
       </td>
     </tr>
   </table>

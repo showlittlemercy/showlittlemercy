@@ -72,7 +72,7 @@
   <table>
     <tr>
       <td align="left" width="50%">
-        <b>🐛 Bug:</b><br> An undocumented feature that users hate.
+        <b>🐛 Bug:</b><br> An undocumented feature that keeps things interesting.
       </td>
       <td align="left" width="50%">
         <b>☕ Coffee:</b><br> A magical liquid that turns stress into code.
@@ -91,12 +91,12 @@
         <b>🥞 Full Stack:</b><br> The ability to break the Frontend and Backend simultaneously.
       </td>
       <td align="left">
-        <b>🎲 Git:</b><br> A game of Russian Roulette where the bullet is a 'Merge Conflict'.
+        <b>☁️ Cloud:</b><br> There is no cloud, it's just someone else's computer.
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <i>"My code doesn't work, I have no idea why." <br> "My code works, I have no idea why."</i>
+        <b>🕶️ "I use the dark theme because light attracts bugs."</b>
       </td>
     </tr>
   </table>

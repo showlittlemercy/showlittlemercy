@@ -30,15 +30,26 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=showlittlemercy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github.com/showlittlemercy/showlittlemercy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/0-profile-details.svg" height="150" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="150" alt="Repos Per Language" />
+  <br>
+  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/3-stats.svg" height="150" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="150" alt="Most Commits" />
+  <br>
+  <img src="https://raw.githubusercontent.com/showlittlemercy/showlittlemercy/main/profile-summary-card-output/radical/4-productive-time.svg" height="150" alt="Productive Time" />
 </div>
 
 <br>
-<div align="center"> 
-  <img src="https://github.com/showlittlemercy/showlittlemercy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
+
 <br>
 
 ---
@@ -73,31 +84,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📊 Github Analytics
-
-<div align="center">
-  <a href="https://github.com/showlittlemercy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=showlittlemercy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/showlittlemercy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlittlemercy&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showlittlemercy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br>
-
-### 📈 Contribution Graph
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=showlittlemercy&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---

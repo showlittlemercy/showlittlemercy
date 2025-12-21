@@ -1,120 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World,%20I'm%20Priyanshu!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Architect%20of%20Ideas&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Priyanshu+👋;Full+Stack+Developer+🚀;Data+Science+Enthusiast+📊;Building+Scalable+Web+Apps+💻" alt="Typing SVG" />
 </div>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/priyanshu-thakur-a47774360/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
   <a href="https://showlittlemercy.github.io/Priyanshu-FULLSTACKDEVELOPER-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-earth&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-006064?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-thakur-a47774360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:showlittlemercy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/showlittlemercy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
 
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=showlittlemercy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+  <br>
+  Innovative <b>Full Stack Developer</b> specializing in scalable, production-grade applications using <b>Next.js</b> and <b>Python</b>. <br>
+  Proven expertise in architecting secure systems, real-time databases, and integrating <b>Generative AI</b>.
+  <br><br>
+  🔭 I’m currently working on <b>Twist (Social Media Platform)</b> <br>
+  🎓 I’m currently pursuing <b>B.E. in Computer Science</b> at HKBK College of Engineering
+  <br>
 </div>
 
----
-
-### 👾 Choose Your Character
-
-> *Select a role to view my stats. (Click the arrows!)*
-
-<details>
-<summary><b>🚀 The Full Stack Architect (Click Me)</b></summary>
 <br>
-<blockquote>
-  "I build scalable universes where pixels meet logic."
-</blockquote>
-<ul>
-  <li><b>Main Weapon:</b> Next.js & TypeScript</li>
-  <li><b>Special Ability:</b> Real-time synchronization (Supabase)</li>
-  <li><b>Current Quest:</b> Building "Twist" - The ultimate social platform.</li>
-  <li><b>Experience:</b> Web Dev Intern @ Corizo Edutech.</li>
-</ul>
-</details>
 
-<details>
-<summary><b>🔮 The Data Sorcerer (Click Me)</b></summary>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=showlittlemercy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</div>
+
 <br>
-<blockquote>
-  "I torture data until it confesses the truth."
-</blockquote>
-<ul>
-  <li><b>Main Weapon:</b> Python & Scikit-Learn</li>
-  <li><b>Special Ability:</b> Predictive Modeling & EDA</li>
-  <li><b>Mana Source:</b> Pandas & NumPy</li>
-  <li><b>Experience:</b> Data Science Intern @ Corizo Edutech.</li>
-</ul>
-</details>
-
----
-
-### 🛠️ The Arsenal (Tech Stack)
-
-<div align="center">
-
-| **Frontend** | **Backend & Cloud** | **Data & AI** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-
+<div align="center"> 
+  <img src="https://github.com/showlittlemercy/showlittlemercy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+<br>
 
 ---
 
-### 🏆 Mission Log (Selected Projects)
-
-| Project | Class | Description | Tech |
-| :--- | :--- | :--- | :--- |
-| **[TWIST](https://twist123.vercel.app/)** | *Capstone* | A massive social media platform mirroring Instagram's complexity with heavy RLS security. | `Next.js` `Clerk` `Supabase` |
-| **[NIRVANA](https://nirvanaecommerce.vercel.app/)** | *E-Comm* | Full-stack shopping platform with admin dashboard and dynamic inventory. | `Next.js` `React` `MongoDB` |
-| **[SYNDROME](https://syndrome-iota.vercel.app/)** | *Social* | Real-time ecosystem supporting instant messaging and live notifications. | `React 18` `TypeScript` `RLS` |
-| **[DAISER](https://daiser.vercel.app/)** | *Productivity* | Kanban board workspace with drag-and-drop and optimistic UI updates. | `Next.js` `React Query` |
-
----
-
-### 🐍 Contribution Snake Game
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://github.com/showlittlemercy/showlittlemercy/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</div>
-
-> *This snake eats my contribution graph! The greener the graph, the fatter the snake.* 🍏
-
----
-
-### ⚡ Power Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=showlittlemercy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Priyanshu's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlittlemercy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
----
-
-### 📜 Certification Scroll
-* 🏆 **Machine Learning & DS** (Python)
-* ☁️ **Cloud Computing** (Azure & AWS Fundamentals)
-* 🤖 **Generative AI** (Intro to GenAI Studio)
-* 🎨 **UI/UX & Design** (Digital Transformation)
-
----
-
-<div align="center">
-  <p><i>"I also organized a fest for 2,000+ people, so I know how to handle high traffic—both on servers and in real life."</i> 😎</p>
   
-  <a href="https://showlittlemercy.github.io/Priyanshu-FULLSTACKDEVELOPER-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Hire_Me-Click_Here-FF0000?style=for-the-badge" alt="Hire Me" />
+  **Frontend**<br>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <br>
+
+  **Backend & Database**<br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <br>
+
+  **Data Science & AI**<br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <br>
+  
+  **Cloud & Tools**<br>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Github Analytics
+
+<div align="center">
+  <a href="https://github.com/showlittlemercy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=showlittlemercy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
+  <a href="https://github.com/showlittlemercy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlittlemercy&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showlittlemercy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+### 📈 Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=showlittlemercy&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
+### 💻 Professional Experience
+
+| Role | Organization | Timeline |
+| :--- | :--- | :--- |
+| **Data Science Intern** | [Corizo Edutech Pvt. Ltd](https://corizo.in) | Nov 2025 – Dec 2025 |
+| **Web Development Intern** | [Corizo Edutech Pvt. Ltd](https://corizo.in) | Oct 2025 – Nov 2025 |
+
+---
+
+### 🚀 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌀 Twist</h3>
+      <div align="center">
+        <a href="https://twist123.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-View%20App-success?style=for-the-badge" />
+        </a>
+      </div>
+      <br>
+      A full-scale social media platform mirroring Instagram. Features Clerk Auth and Supabase RLS for strict privacy across user profiles and feeds.
+      <br><br>
+      <code>Next.js 14</code> <code>Supabase</code> <code>Clerk</code>
+    </td>
+    <td width="50%">
+      <h3 align="center">💊 Syndrome</h3>
+      <div align="center">
+        <a href="https://syndrome-iota.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-View%20App-success?style=for-the-badge" />
+        </a>
+      </div>
+      <br>
+      Scalable social ecosystem with real-time data sync, instant messaging, and complex many-to-many relationship handling.
+      <br><br>
+      <code>React 18</code> <code>TypeScript</code> <code>Supabase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛍️ NIRVANA</h3>
+      <div align="center">
+        <a href="https://nirvanaecommerce.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-View%20App-success?style=for-the-badge" />
+        </a>
+      </div>
+      <br>
+      Full-stack e-commerce platform with custom admin dashboard, dynamic inventory, and secure cart state management.
+      <br><br>
+      <code>Next.js 14</code> <code>MongoDB</code> <code>Clerk</code>
+    </td>
+    <td width="50%">
+      <h3 align="center">📋 Daiser</h3>
+      <div align="center">
+        <a href="https://daiser.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-View%20App-success?style=for-the-badge" />
+        </a>
+      </div>
+      <br>
+      Production-grade task management workspace with interactive Kanban board, drag-and-drop, and real-time analytics.
+      <br><br>
+      <code>Next.js</code> <code>React Query</code> <code>Kanban</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=showlittlemercy&style=flat-square&color=blue" alt="Visitor Counter" />
 </div>
